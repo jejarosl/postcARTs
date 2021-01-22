@@ -1,2 +1,2 @@
 # postcARTs
-![logo](img/logo.png =90x)
+<img src="img/logo.png" width="90" />
