@@ -1,2 +1,2 @@
 # postcARTs
-![logo](img/logo.png = 90px)
+![logo](img/logo.png =90x)
