@@ -14,17 +14,20 @@
 
 23.01.2021 at the [ROBOTHON 2021](https://www.robothon.cz/) Hackathon in Prague.
 
-## Demo
-There are several ways of customizing postcards.
 
-I. Video 
-This case proposes the recognizing postcard using a camera within a smartphone and augments the video of the sender fit to the card size. The proposed system consists of two parts, the video management module and the augmented reality module. The video management module manages playable videos and makes ID as a link between the video and the card. The augmented reality module recognizes the postcard or the picture card using the trained data which is mentioned above and estimates ID of the card and also its three-dimensional position. The ID is sent to the video management module to get the video according to the ID of the card. After that, the augmented reality module synthesizes the video to the three-dimensional position of the card. As a result, the sender shows the video to the receiver fit to the card. The process is performed in real-time.
-
-![Watch video](vid/Majak.gif)
-
-II. Interactive 3D model
-Using freely accessible (we can potentially send 3D models to the users to be placed on the cards). 
+The purpose of this project is to introduce and empower the technology of AI and Augmented Reality (AR) into the usage of postcards for the tourism industry. We believe we can make postcard sending more exciting and attractive to both older and younger generations. Our project allows postcard senders to put their creative ideas into action and let receivers get exciting and unusual gifts, which will be remembered for a long time.
 
 
-III. Automatic video from a 2D picture generation
-One Shot 3D Photography.
+Our team has designed a prototype of a mobile application called postcARTs, which allows us to customize any picture with the use of AI and AR and turn it into a unique experience. After being created, the postcard can be further scanned and brought to life. The steps for the sender include adding a photo that will be an identifying marker. Next, the user can upload a video (a layer over the image), choose background music, 3D model objects, and visual effects to make a postcard more dynamic.
+
+
+All in all, the application developed has achieved its objective as stated in the problem section. The application is developed to reinforce the tourism sector and also to introduce AR technology to the public easily. In this postcard application, the basic AR flows of Video Capturing, Marker Tracking, Overlaying, and Virtual Object Rendering were fully applied in the Android mobile phone and the application prototype has been developed successfully.
+
+
+During the hackathon, we proved feasibility of the idea by successfully creating 3 demonstration scenarios of ARcard creation. The postcards are well-identifiable using the AI algorithms and the animations are stable. We also developed a prototype of the possible GUI. We estimate the cost of the further prototype development to be around 200 thousand crowns.
+
+
+We developed three postcard examples available at https://github.com/ykate1998/postcARTs. The code can be tested by printing the image files in the repository and brought to life by simply downloading the corresponding .apk files to smartphones.
+
+
+We used Unity 3D with a Vuforia Plugin. Postcards that were used for the demonstration were drawn by one of the team members.
