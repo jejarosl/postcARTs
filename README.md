@@ -1,5 +1,3 @@
-# postcARTs
-"Prooving postcards are not *obsolete*."
 <div class="row">
   <div class="column">
     <img src="img/logo.png" width="90" />
@@ -9,6 +7,7 @@
   </div>
 </div>
 
+# postcARTs
 -- "Proving postcards are not *obsolete*."
 
 *Authors:* Jekaterina Jaroslavceva, Václav Veselý
