@@ -1,9 +1,9 @@
 <div class="row">
   <div class="column">
-    <img src="img/logo.png" width="90" />
+    <img src="img/logo.png" width="90" align="right"/>
   </div>
   <div class="column">
-     <img src="img/robothon.png" width="110" />
+     <img src="img/robothon.png" width="110" align="right"/>
   </div>
 </div>
 
